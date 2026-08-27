@@ -1,6 +1,6 @@
 ﻿{
   "packs": {
-    "web": { "version": 1, "url": "https://raw.githubusercontent.com/thebloodbatharena/greenlight-content/main/content/web.js" },
+    "web": { "version": 2, "url": "https://raw.githubusercontent.com/thebloodbatharena/greenlight-content/main/content/web.js" },
     "unity": { "version": 1, "url": "https://raw.githubusercontent.com/thebloodbatharena/greenlight-content/main/content/unity.js" },
     "css": { "version": 1, "url": "https://raw.githubusercontent.com/thebloodbatharena/greenlight-content/main/content/css.js" }
   }
