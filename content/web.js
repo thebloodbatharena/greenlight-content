@@ -12,7 +12,7 @@ GreenLightContent.register("web", [
   {
     id: "basic-01",
     tag: "BASICS 01",
-    title: `"What's a Tag"`,
+    title: `"What's a Tag (UPDATED)"`,
     brief: () =>
       `Everything on a webpage is wrapped in <em>tags</em> — a pair of instructions in angle brackets that tell the browser what something is. A paragraph looks like this: &lt;p&gt;some text&lt;/p&gt;. Try it — make the page say "I'm learning HTML" using exactly that pattern.`,
     starter: `<body>\n\n</body>\n`,
